@@ -1,0 +1,22 @@
+a{
+	color: white;
+}
+
+table{
+	background-color: purple;
+	padding: 0px;
+	margin: 0px; 
+}
+
+.bloqueada{
+	background-color: red; 
+}
+
+.disponible{
+	background-color: blue;
+}
+
+
+.aprobada{
+	background-color: green;
+}
